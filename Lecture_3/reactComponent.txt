@@ -1,0 +1,11 @@
+Mount
+
+constructor(props)
+	- Inintialize state or other class properties
+
+render()
+	- The meat of the component
+	- Return a node
+
+componentDidMount()
+	- Do anything that isn't needed for UI(async actions, timers, etc)

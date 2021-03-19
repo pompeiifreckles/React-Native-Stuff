@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Actions: addUser, contactFetch addContact [Function]: (newContact) 1`] = `
+Object {
+  "payload": Object {
+    "name": "John Doe",
+    "phone": "9999888877",
+  },
+  "type": "UPDATE_CONTACT",
+}
+`;
+
+exports[`Actions: addUser, contactFetch contactFetch [Closure-Function]: () => async(dispatch) 1`] = `
+Object {
+  "payload": Object {
+    "name": Any<String>,
+    "phone": Any<String>,
+  },
+  "type": "FETCHED_CONTACT",
+}
+`;
