@@ -11,3 +11,7 @@ This repo contains all the source code for the projects that I created while stu
 <img src="https://user-images.githubusercontent.com/31028745/112743546-dc21fe80-8fb5-11eb-9e71-f9a4d1971556.PNG" align="left" width="300px">
 <img src="https://user-images.githubusercontent.com/31028745/112743548-de845880-8fb5-11eb-8fa5-73040a413b09.PNG" align="right" width="300px">
 <img src="https://user-images.githubusercontent.com/31028745/112743549-dfb58580-8fb5-11eb-837d-d08bdda8dc32.PNG" width="300px">
+
+## Photo Gallery
+
+![ezgif com-video-to-gif(1)](https://user-images.githubusercontent.com/31028745/112743931-5011d600-8fb9-11eb-85a2-eaa52511afe9.gif)
